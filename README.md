@@ -1,5 +1,3 @@
 # GuessTheFlag
 
-SwiftUI
-
-Played with colors, radial graident, asset catalog, shapes and borders, UI, animations and alert logic
+# App from 100 Days of SwiftUI from Paul Hudson
